@@ -31,7 +31,7 @@ I'm a final-year Information Technology student with a passion for programming. 
 - Continuously improve my coding skills and learn new technologies.
 
 ## 📫 How to reach me
-- [Instagram](https://instagram/thabanidev)
+- [Instagram](https://instagram.com/thabanidev)
 - [Twitter](https://twitter.com/ThabaniDev)
 - [LinkedIn](https://linkedin.com/in/thabanitakwenaxddd)
 - [Email](mailto:thabanidev@gmail.com)

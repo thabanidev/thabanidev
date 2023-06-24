@@ -9,16 +9,16 @@ I'm a final-year Information Technology student with a passion for programming. 
 
 ## 🌱 I’m currently learning
 - C# and Java
-- ReactJS and sanity.io.
-
+- ReactJS and NodeJS
+- Appwrite
+  
 ## 🤝 I’m looking to collaborate on
-- Open source web development projects.
 - Just about any programming project really.
 
 ## 👨‍💻 Technologies and Tools
 - Programming Languages: C#, HTML, CSS, JavaScript, PHP, Java, and C++.
 - Frameworks and Libraries: .NET, ReactJS, Bootstrap, jQuery.
-- Databases: MySQL, Sanity.io
+- Databases: MySQL, Appwrite.
 - Tools: Visual Studio, Visual Studio Code, Git, and Github.
 
 ## 🏆 Achievements
@@ -31,8 +31,9 @@ I'm a final-year Information Technology student with a passion for programming. 
 - Continuously improve my coding skills and learn new technologies.
 
 ## 📫 How to reach me
+- [Instagram](https://instagram/thabanidev)
 - [Twitter](https://twitter.com/ThabaniDev)
-- [LinkedIn](https://linkedin.com/in/thabanitakwena/)
+- [LinkedIn](https://linkedin.com/in/thabanitakwenaxddd)
 - [Email](mailto:thabanidev@gmail.com)
 
 Thanks for visiting my Github profile! Feel free to connect with me or check out my projects below. 🚀(Work in progress...)

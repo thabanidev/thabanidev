@@ -28,8 +28,6 @@ I'm always up for a coding adventure. Whether it's a personal project or a colla
 I wield a variety of programming languages and tools:
 
 - **Languages:** C#, HTML, CSS, JavaScript, PHP, Java, and C++ are my trusty companions.
-  
-- **Frameworks and Libraries:** I'm proficient in .NET, ReactJS, Bootstrap, and jQuery.
 
 - **Tools:** Visual Studio, Visual Studio Code, Git, and Github keep me in the coding flow.
 

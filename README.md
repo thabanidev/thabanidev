@@ -1,22 +1,23 @@
 # Hey there, I'm Thabani Takwena 👨‍💻
 
-I'm Thabani, an enthusiastic Information Technology student currently in my final year. My passion for programming knows no bounds, and I've dabbled in various programming languages like HTML, CSS, JavaScript, PHP, and C++. Lately, I've been diving into the realms of C# and Java as part of my academic journey.
+I'm Thabani, an enthusiastic Information Technology student currently in my final year. My passion for programming knows no bounds, and I've dabbled in various programming languages like HTML, CSS, JavaScript, PHP, and C++. Lately, I've been diving into the realms of C#, Java and Mobile App development with Android Studio as part of my academic journey.
 
 ## 🔥 What's on My Plate
 
-- **Final Year Project:** I'm all in on completing my final year project. It's a culmination of everything I've learned, and I'm excited to see it come to life.
+- **Final Year Project:** My primary focus right now is successfully completing my final year project. This is a culmination of my academic journey, and I'm dedicated to delivering a top-notch project.
+- **Work Integrated Learning (WIL) Opportunity:** I'm actively seeking an opportunity for Work Integrated Learning (WIL). WIL is a crucial step for me as a final-year student, allowing me to gain real-world experience in the IT field. If you know of any openings, feel free to reach out! I'm eager to apply my skills and knowledge in a professional setting.
 
-- **Building My Portfolio:** I'm actively working on building a stellar portfolio that showcases my skills and projects. I'm crafting it with ReactJS and sanity.io for that extra flair.
+- **Building My Portfolio:** In parallel with my academic responsibilities, I'm working on enhancing my portfolio. This serves as a testament to my skills and projects.
 
 ## 📚 Constantly Learning
 
 I believe in the power of continuous learning. Right now, I'm sharpening my skills in:
 
-- **C# and Java:** These languages have piqued my interest, and I'm exploring their depths.
+- **C# and Java:** These are at the core of my current academic studies, where I'm gaining proficiency in both languages as part of my IT program.
   
-- **ReactJS and NodeJS:** I'm delving into the world of web development with ReactJS and NodeJS. The possibilities are exciting!
+- **mobile App Development:** I'm exploring the exciting world of mobile app development in my school curriculum, focusing on both Android app development using Android Studio.
 
-- **Appwrite:** Exploring new tools like Appwrite to expand my tech stack.
+- **Flutter:**  In my personal time, I've embarked on a journey to master Flutter. This cross-platform framework captivates me with its potential to create mobile apps for both Android and iOS, expanding my skill set and horizons.
 
 ## 👥 Open to Collaboration
 
@@ -30,13 +31,11 @@ I wield a variety of programming languages and tools:
   
 - **Frameworks and Libraries:** I'm proficient in .NET, ReactJS, Bootstrap, and jQuery.
 
-- **Databases:** MySQL and the exciting world of Appwrite.
-
 - **Tools:** Visual Studio, Visual Studio Code, Git, and Github keep me in the coding flow.
 
 ## 🏆 Past Achievements
 
-I've had the privilege to lead a team of back-end student developers in crafting a winning website for the Entrepreneurship Hub website design competition. We received a certificate for our exceptional efforts in this competition.
+I've had the privilege to lead a team of back-end student developers in crafting a website for the Entrepreneurship Hub website design competition held by my [College](https://richfield.ac.za). We received a certificate of achievement for our exceptional efforts in this competition.
 
 ## 🌟 Future Goals
 

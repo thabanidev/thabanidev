@@ -21,9 +21,3 @@
 
 * **Independent Exploration:** Continuously expanding my skillset by delving into technologies like Next.js, React, MongoDB, and Flutter.
 * **ALX Software Engineering Program:** Sharpening my foundation and best practices in areas like Node.js and software development.
-
-## Connect with Me:
-
-* Twitter: @thabanidev: [[https://twitter.com/thabani_takwena](https://twitter.com/thabanidev)]
-* Instagram: @thabanidev: [[https://instagram.com/thabani_takwena](https://instagram.com/thabanidev)]
-* LinkedIn: Thabani Takwena: [[https://linkedin.com/in/thabani-takwena](https://linkedin.com/in/thabani-takwena)]

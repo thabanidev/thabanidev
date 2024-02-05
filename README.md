@@ -14,7 +14,7 @@
 
 ## Current Projects:
 
-* **SymbioLearn (in progress):** Rebuilding my final IT project using the MERN stack.
+* **SymbioLearn:** Rebuilding my final IT project using the MERN stack.
 * **Creabl:** Creating a blogging platform.
 
 ## Learning Journey:

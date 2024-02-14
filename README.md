@@ -20,4 +20,4 @@
 ## Learning Journey:
 
 * **Independent Exploration:** Continuously expanding my skillset by delving into technologies like Next.js, React, MongoDB, and Flutter.
-* **ALX Software Engineering Program:** Sharpening my foundation and best practices in areas like Node.js and software development.
+* **ALX Software Engineering Program:** Sharpening my foundation and best practices in Software Engineering through practical learning.

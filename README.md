@@ -14,8 +14,8 @@
 
 ## Current Projects:
 
-* **SymbioLearn:** Rebuilding my final IT project using the MERN stack.
-* **Creabl:** Creating a blogging platform.
+* **Creabl:** A blogging platform.
+* **Promantoo:** A Project Management Tool.
 
 ## Learning Journey:
 

@@ -5,7 +5,7 @@
 * Web Development Intern at CodSoft (Jan 2024 - Present)
     * Building full-stack web applications.
 * Programming Tutor (Mar 2021 - Mar 2023)
-    * Empowered high schoolers with Delphi programming skills.
+    * Empowered high school students with programming skills.
 
 ## Achievements:
 

@@ -1,4 +1,4 @@
-#  Thabani Takwena: Aspiring Full-Stack Developer
+#  Thabani Takwena: Full-Stack Developer
 
 ## Experience:
 

@@ -9,8 +9,8 @@
 
 ## Achievements:
 
-* **2023 Hackathon Participant (Teamwork):** Collaborated on building an AI Stock Market Prediction system (Python, MySQL, TensorFlow).
-* **2022 Website Development Competition Participant:** Participated in developing a full-stack website (HTML, JavaScript, PHP) with a team.
+* **2023 Hackathon Winners (Teamwork):** Collaborated on building an AI Stock Market Prediction system (Python, MySQL, TensorFlow). This was a hackatjon held at my college.
+* **2022 Website Development Competition Participant:** Participated in developing a full-stack website (HTML, JavaScript, PHP) with a team. This was also a hackatjon held at my college.
 
 ## Current Projects:
 

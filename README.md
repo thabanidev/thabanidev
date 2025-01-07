@@ -4,7 +4,7 @@ Hi 👋 My name is Thabani Takwena
 Full-stack Developer
 --------------------
 
-I’m a full-stack developer who loves solving real-world problems with technology and AI. I’m into building apps that are simple, useful, and fun to use, and I’m always exploring new ways tech can make life easier. When I’m not coding, you’ll probably find me learning something new, sharing self-development insights on LinkedIn, or geeking out over the latest AI trends.
+I’m a full-stack developer who loves solving problems with technology and AI. I’m into building apps that are simple, useful, and fun to use, and I’m always exploring new ways tech can make life easier. When I’m not coding, you’ll probably find me learning something new, sharing self-development insights on LinkedIn, or geeking out over the latest AI trends.
 
 * 🌍  I'm based in Germiston, South Africa
 * 🖥️  See my portfolio at [thabanidev.com](http://thabanidev.com)

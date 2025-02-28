@@ -9,9 +9,8 @@ I’m a full-stack developer who loves solving problems with technology and AI. 
 * 🌍  I'm based in Germiston, South Africa
 * 🖥️  See my portfolio at [thabanidev.com](http://thabanidev.com)
 * ✉️  You can contact me at [thabanidev@gmail.com](mailto:thabanidev@gmail.com)
-* 🧠  I'm learning the ins and outs of .Net and C#
-* 🤝  I'm open to collaborating on any projects that have to do with AI
-* ⚡  I’m building an AI-powered platform to help people and businesses set better goals.
+* 🧠  Working on [SymbioLearn v2](https://symbiolearn.com) and [AmbiGoal](https://ambigoal.com) (to be launched first week of March 2025) 
+* 🤝  I'm open to collaborating on any projects that have to do with AI and Edutech
 
 ### Skills
 
